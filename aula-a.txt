@@ -1,3 +1,4 @@
 1- aprender
 2- entender
 3- aplicar
+4- teste
